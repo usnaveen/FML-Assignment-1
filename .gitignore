@@ -12,3 +12,5 @@ __pycache__/
 
 # Ignore zip files (if not needed in repo)
 *.zip
+
+.DS_Store
