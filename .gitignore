@@ -1,0 +1,14 @@
+# Ignore all PNG images (plots, figures, etc.)
+*.png
+
+# Ignore Python cache files and folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore zip files (if not needed in repo)
+*.zip
